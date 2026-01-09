@@ -11,11 +11,11 @@ This lab was done with the help of [Cobuman's Office 365 training series](https:
 
 Here we'll be prompted to add basic personal information.
 
-![Admin Center Add User](./assets/images/office365_add_user.png)
+![Admin Center Add User](./assets/images/ms365_add_user.png)
 
 Next, we'll assign a license to our new user.
 
-![Admin Center Add License](./assets/images/office365_add_license.png)
+![Admin Center Add License](./assets/images/ms365_add_license.png)
 
 Now we can add apps associated with the license to our user.
 
